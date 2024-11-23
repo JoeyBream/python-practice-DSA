@@ -1,0 +1,9 @@
+# Ingore Jupyter tracker files
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environments
+venv/
+
